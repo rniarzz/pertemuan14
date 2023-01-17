@@ -1,10 +1,10 @@
 # Praktikum12
 
-Nama : Syifa Aurellia Rahma
+Nama : Rini Ariza
 
-NIM : 312210009
+NIM : 312210337
 
-Kelas : TI.22.A1
+Kelas : TI.22.A3
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
@@ -58,7 +58,7 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       
 #### Output Latihan 1
 
-![Screenshot (417)](https://user-images.githubusercontent.com/115867244/209519851-cbb9c266-f540-4218-a5a8-5a58f95068a3.png)
+<img width="770" alt="z1" src="https://user-images.githubusercontent.com/115542704/212805429-e9f4a320-1464-42ed-aeec-dd87bf400d5b.png">
 
 ### Latihan 2
 
@@ -74,6 +74,6 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       
 #### Output Latihan 2
 
-![Screenshot (416)](https://user-images.githubusercontent.com/115867244/209520154-94aaf4e4-80e1-4651-9a0e-6dcc31178d46.png)
+<img width="782" alt="z2" src="https://user-images.githubusercontent.com/115542704/212805443-0b8046ba-feec-4dab-ac4b-309e417e0c3b.png">
 
 ## Sekian, Terima Kasih
